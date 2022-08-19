@@ -10,7 +10,10 @@ app to generate and download a QR code that can be used to share a link
 
 ## Demonstration
 
-<img src="assets/demo.png">
+- mobile
+  <img src="assets/demo-mobile.png">
+- desktop
+  <img src="assets/demo-desktop.png">
 
 ## Author
 
